@@ -1,0 +1,8 @@
+{
+    "Simulator Target Bundle": "com.braze.test.ios-tutorial.<your-name>",
+    "aps": {
+        "alert": "Push Notifications Test",
+        "sound": "default",
+        "badge": 1
+    }
+}
