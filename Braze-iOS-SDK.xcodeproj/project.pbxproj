@@ -10,6 +10,7 @@
 		C436B20B2833F3F1004225D4 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = C436B20A2833F3F1004225D4 /* Utilities.swift */; };
 		C45FCCEB283E2EFB002909AD /* UIViewController_Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45FCCEA283E2EFB002909AD /* UIViewController_Util.swift */; };
 		C45FCCF12840BF76002909AD /* ContentCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45FCCF02840BF76002909AD /* ContentCardViewController.swift */; };
+		C47C1EC4288ACD8500C11E7E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C47C1EC3288ACD8500C11E7E /* README.md */; };
 		C49258AA283BECB600455CE6 /* SlideUpWithOffsetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49258A9283BECB600455CE6 /* SlideUpWithOffsetViewController.swift */; };
 		C4DA7E51288AC5D8004EC610 /* AppboyUI in Frameworks */ = {isa = PBXBuildFile; productRef = C4DA7E50288AC5D8004EC610 /* AppboyUI */; };
 		C4DA7E53288AC997004EC610 /* ExamplePush.apns in Resources */ = {isa = PBXBuildFile; fileRef = C4DA7E52288AC997004EC610 /* ExamplePush.apns */; };
@@ -25,6 +26,7 @@
 		C436B20A2833F3F1004225D4 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		C45FCCEA283E2EFB002909AD /* UIViewController_Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController_Util.swift; sourceTree = "<group>"; };
 		C45FCCF02840BF76002909AD /* ContentCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCardViewController.swift; sourceTree = "<group>"; };
+		C47C1EC3288ACD8500C11E7E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C49258A9283BECB600455CE6 /* SlideUpWithOffsetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideUpWithOffsetViewController.swift; sourceTree = "<group>"; };
 		C49258AB283BF3D600455CE6 /* Braze-iOS-SDK.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Braze-iOS-SDK.entitlements"; sourceTree = "<group>"; };
 		C4D8358D2836B4070053FFB0 /* AppboyKitLibrary.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = AppboyKitLibrary.xcframework; path = "Pods/Appboy-iOS-SDK/AppboyKit/AppboyKitLibrary.xcframework"; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		FA63A5A924241E4F00BA856A = {
 			isa = PBXGroup;
 			children = (
+				C47C1EC3288ACD8500C11E7E /* README.md */,
 				C4DA7E52288AC997004EC610 /* ExamplePush.apns */,
 				C45FCCEC283E2F6D002909AD /* Utilities */,
 				FA63A5B424241E4F00BA856A /* Braze-iOS-SDK */,
@@ -194,6 +197,7 @@
 			files = (
 				C4DA7E53288AC997004EC610 /* ExamplePush.apns in Resources */,
 				FA63A5C224241E5000BA856A /* LaunchScreen.storyboard in Resources */,
+				C47C1EC4288ACD8500C11E7E /* README.md in Resources */,
 				FA63A5BF24241E5000BA856A /* Assets.xcassets in Resources */,
 				FA63A5BD24241E4F00BA856A /* Main.storyboard in Resources */,
 			);
